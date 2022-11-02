@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ItsPulkit
+- 👋 Hi, I’m Pulkit
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ..
