@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pulkit
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ..
+- 🌱 I’m currently learning Spring Boot
+- 💞️ I’m looking to collaborate on Backend Projects
 - 📫 How to reach me : rpulkit2000@gmail.com
 
 <!---
